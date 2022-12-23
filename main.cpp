@@ -1,3 +1,8 @@
+/**
+As of 11:12pm 12/22 this is a simple program generated via ChatGPT,
+it creates the base classes for a Hotel object and a Room object, along with a demo function
+*/
+
 #include <string>
 #include <vector>
 #include <iostream>
